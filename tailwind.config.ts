@@ -38,6 +38,9 @@ export default {
 
 function addVariablesForColors({ addBase, theme }: any) {
   const allColors = theme("colors");
+  let newVars = Object.fromEntries(
+    Object.entries(allColors).map(([key, val]) => [`--${key}`, val])
+  );
   const flattenedColors = Object.fromEntries(
     Object.entries(allColors).flatMap(([color, value]) =>
       typeof value === "object"
@@ -52,3 +55,4 @@ function addVariablesForColors({ addBase, theme }: any) {
     ),
   });
 }
+
