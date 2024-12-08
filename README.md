@@ -6,8 +6,8 @@ Welcome to the **Music Academy** repository! This project is designed to provide
 
 - **Interactive Lessons**: Learn music through step-by-step guides and interactive tutorials.
 - **Instructor Dashboard**: A dedicated dashboard for instructors to upload and manage lessons.
-- **Student Progress Tracker**: Tracks progress for enrolled students and provides insights.
-- **Community Engagement**: Discussion boards and events to foster a community of musicians.
+- **Indepth Tutorials**: Our indepth tutorials provide a deeper understanding about the art of music.
+- **And much more**: Explore our other offerings via our website!.
 
 ## 🛠️ Tech Stack
 
