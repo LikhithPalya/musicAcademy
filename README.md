@@ -1,36 +1,62 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🎵 Music Academy
 
-## Getting Started
+Welcome to the **Music Academy** repository! This project is designed to provide a platform for music enthusiasts to learn, teach, and connect through music.
 
-First, run the development server:
+## 🚀 Features
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- **Interactive Lessons**: Learn music through step-by-step guides and interactive tutorials.
+- **Instructor Dashboard**: A dedicated dashboard for instructors to upload and manage lessons.
+- **Student Progress Tracker**: Tracks progress for enrolled students and provides insights.
+- **Community Engagement**: Discussion boards and events to foster a community of musicians.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🛠️ Tech Stack
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Next Js**
+- **Aceternity Ui**
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🏗️ Installation
 
-## Learn More
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/LikhithPalya/musicAcademy.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd musicAcademy
+   ```
+3. Install dependencies:
+     ```bash
+     cd client
+     npm install
+     follow instructions on this page -'https://ui.aceternity.com/docs/install-nextjs'
+     ```
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+5. Run the project:
+   - Start the project:
+     ```bash
+     npm run dev
+     ```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+6. Open your browser and navigate to `http://localhost:3000`.
 
-## Deploy on Vercel
+## 🤝 Contributing
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Contributions are welcome! To contribute:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-branch`).
+3. Make your changes and commit them (`git commit -m "Add feature"`).
+4. Push to the branch (`git push origin feature-branch`).
+5. Open a pull request.
+
+## 📄 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## 📞 Contact
+
+For queries or feedback, reach out to:
+- **Author**: Likhith Palya
+- **Email**: [likhithpalya@example.com]
+- **GitHub**: [LikhithPalya](https://github.com/LikhithPalya)
